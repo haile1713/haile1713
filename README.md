@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **React , data structure and algorithm and data base.**
 
 - 👨‍💻 All of my projects are available at [https://haileleulf.wixsite.com/haile](https://haileleulf.wixsite.com/haile)
+- - 👨‍💻 All of my projects are available at [https://cute-raindrop-c5701e.netlify.app/#about](https://cute-raindrop-c5701e.netlify.app/#about)
 
 - 💬 Ask me about **web development ,blender and adobe illustrator.**
 

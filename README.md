@@ -132,6 +132,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+      <!-- ShadCN Icon -->
+  <a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ShadCN-gray?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" width="40" height="40"/>
+  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
@@ -140,6 +144,10 @@
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  </a>
+  <!-- Godot Icon -->
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="40" height="40"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>

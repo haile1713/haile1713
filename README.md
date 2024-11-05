@@ -73,14 +73,18 @@
 <div align="center">
     <!-- First Row of Icons -->
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs" />
+  <img src="https://img.shields.io/badge/ShadCN-gray?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" />
+  <br></br>
     <!-- Second Row of Icons -->
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase,mongodb,git,github" />
+  <br></br>
     <!-- Third Row of Icons -->
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,arduino,dart,flutter,postgres,mysql" />
+  <br></br>
     <!-- Fourth Row of Icons with ShadCN -->
     <img src="https://skillicons.dev/icons?i=linux,blender,figma,photoshop,matlab,postman,tensorflow,godot,webpack" />
     <!-- ShadCN Icon -->
-    <img src="https://img.shields.io/badge/ShadCN-gray?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" />
+    
 </div>
 <br/>
 <hr/>

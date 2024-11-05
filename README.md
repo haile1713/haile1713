@@ -68,91 +68,18 @@
 
 
 ---
-<h3 align="center">🛠️ Languages and Tools</h3>
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- Arduino -->
-  <span class="icon"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" /></span>
-  <!-- Babel -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" /></span>
-  <!-- Blender -->
-  <span class="icon"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" /></span>
-  <!-- C -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" /></span>
-  <!-- CanvasJS -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" /></span>
-  <!-- C++ -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" /></span>
-  <!-- CSS3 -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" /></span>
-  <!-- Figma -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" /></span>
-  <!-- Firebase -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" /></span>
-  <!-- Flutter -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" /></span>
-  <!-- Git -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" /></span>
-  <!-- GitHub -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" /></span>
-  <!-- HTML5 -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" /></span>
-  <!-- Illustrator -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" /></span>
-  <!-- Java -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></span>
-  <!-- JavaScript -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></span>
-  <!-- Linux -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></span>
-  <!-- MATLAB -->
-  <span class="icon"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" /></span>
-  <!-- MongoDB -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" /></span>
-  <!-- MySQL -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" /></span>
-  <!-- Next.js -->
-  <span class="icon"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" /></span>
-  <!-- Node.js -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" /></span>
-  <!-- Photoshop -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" /></span>
-  <!-- PostgreSQL -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" /></span>
-  <!-- Postman -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></span>
-  <!-- React -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" /></span>
-  <!-- React Native -->
-  <span class="icon"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" /></span>
-  <!-- Tailwind CSS -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" /></span>
-  <!-- ShadCN -->
-  <span class="icon"><img src="https://img.shields.io/badge/ShadCN-gray?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" /></span>
-  <!-- TensorFlow -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" /></span>
-  <!-- Scikit-Learn -->
-  <span class="icon"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></span>
-  <!-- TypeScript -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" /></span>
-  <!-- Unity -->
-  <span class="icon"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" /></span>
-  <!-- Godot -->
-  <span class="icon"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" /></span>
-  <!-- Webpack -->
-  <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" /></span>
-</p>
-
-<style>
-  .icon img {
-    width: 40px;
-    height: 40px;
-    margin: 5px;
-    background-color: #1e1e1e; /* Adjust for desired background color */
-    border-radius: 8px; /* Square shape */
-    padding: 5px;
-  }
-</style>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <!-- First Row of Icons -->
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs,github,git,redux" />
+    <!-- Second Row of Icons -->
+    <img src="https://skillicons.dev/icons?i=nodejs,python,express,firebase,mongodb,c,cpp,arduino,dart,flutter,java,mysql,postgres" /><br/>
+    <!-- Additional Icons Row -->
+    <img src="https://skillicons.dev/icons?i=linux,blender,figma,photoshop,matlab,postman,tensorflow,scikit,unity,godot,webpack" />
+</div>
+<br/>
+<hr/>
 
 ---
 

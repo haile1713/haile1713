@@ -72,7 +72,7 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
   <!-- Arduino -->
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <!-- Babel -->
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
   <!-- Blender -->

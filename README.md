@@ -143,6 +143,16 @@
   <span class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" /></span>
 </p>
 
+<style>
+  .icon img {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    background-color: #1e1e1e; /* Adjust for desired background color */
+    border-radius: 8px; /* Square shape */
+    padding: 5px;
+  }
+</style>
 
 ---
 

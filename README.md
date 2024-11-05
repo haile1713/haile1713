@@ -1,9 +1,9 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haile1713&label=Profile%20views&color=0e75b6&style=flat" alt="haile1713" /> </p>
 <h1 align="center">Hi 👋, I'm Haileleul</h1>
 <h3 align="center">A passionate frontend developer, logo designer and 3D animator from Ethiopia !!</h3>
 <img align ="right" alt="coding" width ="400" src ="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haile1713&label=Profile%20views&color=0e75b6&style=flat" alt="haile1713" /> </p>
+
 
 - 🔭 I’m currently working on **E-commerce website , educational platform , logos and a new portfolio site.**
 

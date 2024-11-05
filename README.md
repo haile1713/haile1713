@@ -5,8 +5,9 @@
 
 <!-- Typing GIF Centered -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Typing GIF" width="500" height="300">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Typing GIF" width="480" height="271">
 </p>
+
 
 <!-- Animated Name with Description -->
 <h1 align="center">

@@ -5,9 +5,30 @@
   <img src="https://komarev.com/ghpvc/?username=haile1713&label=Profile%20views&color=11e70d&style=flat" alt="haile1713" />
 </p>
 
+<!-- Typing boy GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Typing GIF" width="500" height="300">
 </p>
+
+<!-- Code Clock Image -->
+<p align="center">
+  <img src="URL_TO_YOUR_IMAGE" alt="Code Clock Logo" width="150">
+</p>
+
+<!-- Social Media Buttons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/haileleul-mezgebe-577835227" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://YOUR_BLOG_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
+  </a>
+</p>
+
+---
 
 ---
 

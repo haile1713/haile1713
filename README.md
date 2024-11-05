@@ -4,9 +4,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haile1713&label=Profile%20views&color=11e70d&style=flat" alt="haile1713" />
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Typing GIF" width="500" height="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Typing GIF" width="500" height="300">
 </p>
+
 ---
 
 ### 🔭 Projects I'm Working On

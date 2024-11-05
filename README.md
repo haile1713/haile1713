@@ -1,7 +1,22 @@
+<!-- Code Clock Image -->
+<p align="center">
+  <img src="URL_TO_YOUR_IMAGE" alt="Code Clock Logo" width="150">
+</p>
+<!-- Social Media Buttons -->
+<p align="center">
+  <a href="https://linkedin.com/in/haileleul-mezgebe-577835227" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/hhaile_ffiseha/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+---
+
 <h1 align="center">Hi 👋, I'm Haileleul F. Mezgebe</h1>
 <h3 align="center">A passionate full-stack developer, logo designer, and 3D animator from Ethiopia, with a strong interest in ML, VLSI, and AI!</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=haile1713&label=Profile%20views&color=11e70d&style=flat" alt="haile1713" />
 </p>
 
@@ -9,26 +24,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Typing GIF" width="500" height="300">
 </p>
-
-<!-- Code Clock Image -->
-<p align="center">
-  <img src="URL_TO_YOUR_IMAGE" alt="Code Clock Logo" width="150">
-</p>
-
-<!-- Social Media Buttons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/haileleul-mezgebe-577835227" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.youtube.com/YOUR_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://YOUR_BLOG_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-  </a>
-</p>
-
----
 
 ---
 
@@ -48,18 +43,6 @@
 
 ### 📫 How to Reach Me
 - **Email**: haileleulfiseha@gmail.com
-
----
-
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/haileleul-mezgebe-577835227" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/hhaile_ffiseha/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
 
 ---
 

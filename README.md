@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Haileleul F. Mezgebe</h1>
 <h3 align="center">A passionate full-stack developer, logo designer, and 3D animator from Ethiopia, with a strong interest in ML, VLSI, and AI!</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Boy Typing GIF" width="500" height="300">
-</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haile1713&label=Profile%20views&color=11e70d&style=flat" alt="haile1713" />
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Typing GIF" width="500" height="300">
+</p>
 ---
 
 ### 🔭 Projects I'm Working On

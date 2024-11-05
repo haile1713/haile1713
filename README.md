@@ -12,13 +12,13 @@
   </a>
 </p>
 ---
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=haile1713&label=Profile%20views&color=11e70d&style=flat" alt="haile1713" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Haileleul F. Mezgebe</h1>
 <h3 align="center">A passionate full-stack developer, logo designer, and 3D animator from Ethiopia, with a strong interest in ML, VLSI, and AI!</h3>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=haile1713&label=Profile%20views&color=11e70d&style=flat" alt="haile1713" />
-</p>
 
 <!-- Typing boy GIF -->
 <p align="center">

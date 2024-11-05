@@ -72,15 +72,16 @@
 <br/>
 <div align="center">
     <!-- First Row of Icons -->
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs,github,git,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs,shadcn" />
     <!-- Second Row of Icons -->
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,firebase,mongodb,c,cpp,arduino,dart,flutter,java,mysql,postgres" /><br/>
-    <!-- Additional Icons Row -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase,mongodb,git,github" />
+    <!-- Third Row of Icons -->
+    <img src="https://skillicons.dev/icons?i=c,c#,,c++,java,arduino,dart,flutter,postgres,mysql" />
+    <!-- Fourth Row of Icons -->
     <img src="https://skillicons.dev/icons?i=linux,blender,figma,photoshop,matlab,postman,tensorflow,scikit,unity,godot,webpack" />
 </div>
 <br/>
 <hr/>
-
 ---
 
 <h3 align="center">🔥 GitHub Stats</h3>

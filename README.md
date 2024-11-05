@@ -71,22 +71,19 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <!-- Web Development Section -->
-    <h3>Web Development</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs,figma,photoshop,shadcn" />
-    <br/><br/>
-    <!-- ML/AI Section -->
-    <h3>ML/AI</h3>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-    <br/><br/>
-    <!-- Backend Section -->
-    <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,git,github,postgres,mysql" />
-    <br/>
+    <!-- First Row of Icons -->
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs" />
+    <!-- Second Row of Icons -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase,mongodb,git,github" />
+    <!-- Third Row of Icons -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,arduino,dart,flutter,postgres,mysql" />
+    <!-- Fourth Row of Icons with ShadCN -->
+    <img src="https://skillicons.dev/icons?i=linux,blender,figma,photoshop,matlab,postman,tensorflow,godot,webpack" />
+    <!-- ShadCN Icon -->
+    <img src="https://img.shields.io/badge/ShadCN-gray?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" />
 </div>
 <br/>
 <hr/>
-
 
 ---
 

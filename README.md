@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haile1713&label=Profile%20views&color=11e70d&style=flat" alt="haile1713" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haile1713" alt="haile1713" /></a> </p>
-
 - 🔭 I’m currently working on [Ecommerce Website](https://github.com/Balesuk)
 
 - 🌱 I’m currently learning **Machine Learning and VLSI**

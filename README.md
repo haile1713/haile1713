@@ -73,20 +73,18 @@
 <div align="center">
     <!-- First Row of Icons -->
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs" />
-  <img src="https://img.shields.io/badge/ShadCN-gray?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,webpack,postgres,postman/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,dart,flutter"/>
-  <br></br>
-  <br></br>
-    <!-- Second Row of Icons -->
+    <img src="https://img.shields.io/badge/ShadCN-gray?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,webpack,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,dart,flutter" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=linux,arduino,git,github,matlab" />
-  <br></br>
-    <!-- Fourth Row of Icons with ShadCN -->
-    <img src="https://skillicons.dev/icons?i=blender,figma,photoshop/>
-     <img src="https://skillicons.dev/icons?i=python,tensorflow,godot" />    
+    <br/>
+    <img src="https://skillicons.dev/icons?i=blender,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,godot" />    
 </div>
 <br/>
 <hr/>
+
 
 ---
 

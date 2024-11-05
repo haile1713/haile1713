@@ -25,23 +25,27 @@
 <div align="center">
 
 ### 🔭 Currently Working On
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>🔗 Ecommerce Website: <a href="https://github.com/Balesuk">View Project</a></li>
-  <li>🌿 Waste Management Web-App: <a href="https://github.com/haile1713/EcoTrack">View Project</a></li>
-  <li>💰 Expense-Tracker Web-App: <a href="https://github.com/haile1713/Simple--Expense-tracker-app-with-ML-">View Project</a></li>
-</ul>
+<!-- Using HTML list without bullets -->
+<table>
+  <tr>
+    <td>🔗 <b>Ecommerce Website</b>: <a href="https://github.com/Balesuk">View Project</a></td>
+  </tr>
+  <tr>
+    <td>🌿 <b>Waste Management Web-App</b>: <a href="https://github.com/haile1713/EcoTrack">View Project</a></td>
+  </tr>
+  <tr>
+    <td>💰 <b>Expense-Tracker Web-App</b>: <a href="https://github.com/haile1713/Simple--Expense-tracker-app-with-ML-">View Project</a></td>
+  </tr>
+</table>
 
 ### 🌱 Currently Learning
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>🤖 **Machine Learning and VLSI**</li>
-</ul>
+<p>🤖 <b>Machine Learning and VLSI</b></p>
 
 ### 💬 Ask Me About
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>💻 Web Development, Machine Learning, and Animation</li>
-</ul>
+<p>💻 <b>Web Development, Machine Learning, and Animation</b></p>
 
 </div>
+
 
 ---
 

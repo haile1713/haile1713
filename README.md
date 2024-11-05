@@ -25,15 +25,15 @@
 <div align="center">
   
 ### 🔭 Currently Working On
-- **Ecommerce Website**: [View Project](https://github.com/Balesuk)
-- **Waste Management Web-App**: [View Project](https://github.com/haile1713/EcoTrack)
-- **Expense-Tracker Web-App**: [View Project](https://github.com/haile1713/Simple--Expense-tracker-app-with-ML-)
+ **Ecommerce Website**: [View Project](https://github.com/Balesuk)
+ **Waste Management Web-App**: [View Project](https://github.com/haile1713/EcoTrack)
+ **Expense-Tracker Web-App**: [View Project](https://github.com/haile1713/Simple--Expense-tracker-app-with-ML-)
 
 ### 🌱 Currently Learning
-- **Machine Learning and VLSI**
+ **Machine Learning and VLSI**
 
 ### 💬 Ask Me About
-- **Web Development, Machine Learning, and Animation**
+ **Web Development, Machine Learning, and Animation**
 
 </div>
 

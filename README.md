@@ -58,7 +58,7 @@
   <a href="https://www.instagram.com/hhaile_ffiseha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://haileleul.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
 </p>
